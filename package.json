@@ -1,0 +1,15 @@
+{
+  "name": "f1-sandwich-challenge",
+  "version": "1.0.0",
+  "description": "Testing suite for Turing FEE Mod1 students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.1"
+  }
+}
